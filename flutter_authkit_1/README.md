@@ -1,16 +1,7 @@
-# flutter_login_registration_ui
+# flutter_authkit_1
 
-Flutter implementation of an Uplabs design
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter UI implememtaion of the following design found on <a href="https://www.uplabs.com/posts/auth-kit-4-mobile-sign-in-register" target="_blank">Uplabs</a>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![preview.png](assets/preview.jpg)
